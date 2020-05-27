@@ -12,4 +12,4 @@ These instructions will help you to set up roles documentation for your working 
 Copy their content from the files at [scheduler.md](https://raw.githubusercontent.com/mrsanz/jekyll-roles-theme/master/roles/scheduler.md), [facilitator.md](https://raw.githubusercontent.com/mrsanz/jekyll-roles-theme/master/roles/facilitator.md), and [scribe.md](https://raw.githubusercontent.com/mrsanz/jekyll-roles-theme/master/roles/scribe.md).
 1.  Vist the `Settings` for your repository.
 1.  Select the **GitHub Pages** source as the `gh-pages` branch.
-1.  Visit your roles documentation at innersourcecommons.github.io/<your-working-group-name>
+1.  Visit your roles documentation at `https://innersourcecommons.github.io/<your-working-group-name>`
