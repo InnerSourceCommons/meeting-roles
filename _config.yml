@@ -14,7 +14,7 @@
 
 title: <working-group-name>
 description: "<working-group-description>"
-baseurl: "/<repo>" # the subpath of your site.
+baseurl: "/<repo>" # the subpath of your site (case sensitive)
 url: "https://innersourcecommons.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # links will show up as reference links on each role page
